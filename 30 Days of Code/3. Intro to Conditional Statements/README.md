@@ -17,7 +17,7 @@ A single line containing a positive integer, .
 
 **Constraints**
 
-- 
+ 1<= n <= 100
 
 **Output Format**
 
