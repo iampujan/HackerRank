@@ -1,12 +1,8 @@
-Your task is to use *for* loops to display only *odd* natural numbers from  to .
+Your task is to use *for* loops to display only *odd* natural numbers from 1 to 99 .
 
 **Input Format**
 
 *There is no input.*  
-
-**Constraints**
-
-\-
 
 **Output Format**
 
